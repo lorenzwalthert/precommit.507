@@ -12,3 +12,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 Imports: 
     GenomeInfoDbData
+URL: https://github.com/lorenzwalthert/precommit.507
+BugReports: https://github.com/lorenzwalthert/precommit.507/issues
